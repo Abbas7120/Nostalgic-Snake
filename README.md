@@ -5,6 +5,8 @@ Built using **HTML, CSS, and JavaScript**, this game is designed for **desktop u
 
 ---
 
+### LIVE PREVIEW LINK ---- https://nostalgicsnake.netlify.app/
+
 ## 🎮 Game Modes
 
 ### 🟢 Noob Mode
